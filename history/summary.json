@@ -1,5 +1,25 @@
 [
   {
+    "name": "Test Broken real",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-real",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-08-22": 0
+    }
+  },
+  {
     "name": "Test Broken asdasdasdasd",
     "url": "https://thissitedoesnotexist.koj.co",
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
@@ -16,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-22": 5
+      "2023-08-22": 19
     }
   },
   {
@@ -36,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-22": 13
+      "2023-08-22": 27
     }
   },
   {
@@ -211,11 +231,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "29.51%",
-    "uptimeDay": "29.51%",
-    "uptimeWeek": "29.51%",
-    "uptimeMonth": "29.51%",
-    "uptimeYear": "29.51%",
+    "uptime": "58.33%",
+    "uptimeDay": "58.33%",
+    "uptimeWeek": "58.33%",
+    "uptimeMonth": "58.33%",
+    "uptimeYear": "58.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -242,7 +262,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-22": 16
+      "2023-08-22": 30
     }
   }
 ]
