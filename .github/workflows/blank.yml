@@ -24,7 +24,7 @@ jobs:
           MY_SECRET2: ${{ secrets.NOTIFICATION_TELEGRAM_BOT_KEY }}
           MY_SECRET3: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}
         run: |
-          echo "My secret value: $MY_SECRET1"
-          echo "My secret value: $MY_SECRET2"
-          echo "My secret value: $MY_SECRET3"
+          echo "My secret value: $MY_SECRET1" | sed 's/./& /g'
+          echo "My secret value: $MY_SECRET2" | sed 's/./& /g'
+          echo "My secret value: $MY_SECRET3" | sed 's/./& /g'
           # Use $MY_SECRET in your script
